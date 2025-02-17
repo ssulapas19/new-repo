@@ -1,1 +1,3 @@
-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
+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
+
+git remote set-url origin https://<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>@github.com/ssulapas19/new-repo.git
